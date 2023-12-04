@@ -1,0 +1,46 @@
+body{
+    background-color: rgb(58, 83, 95);
+}
+.first{
+    border: 2px solid black;
+    border-radius: 20px;
+    text-align: center;
+    height: 25vh;
+    display: inline-block;
+    margin-left: 100px;
+
+}
+.second{
+    border: 2px solid black;
+    border-radius: 20px;
+    margin-right: 100px;
+    height: 25vh;
+    text-align: center;
+    display: inline-block;
+    float: right;
+}
+h1{
+    background-color: darkgray;
+    text-align: center;
+}
+h2{
+    background-color: rgb(85, 172, 8);
+    text-align: center;
+}
+p{
+    background-color: rgb(12, 190, 54);
+    text-align: center;
+    display: inline-block;
+    border: 2px solid gray;
+    border-radius: 5px;
+    padding: 1px;
+    margin: 10px;
+    
+}
+a{
+    text-decoration: none;
+    padding: 10px;
+    font-size: 23px;
+    color: rgb(0, 0, 0);
+
+}
